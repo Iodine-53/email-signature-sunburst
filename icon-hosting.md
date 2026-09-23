@@ -10,7 +10,7 @@ Host: **catbox.moe** (free, no account, direct permanent links).
 
 | Image | Hosted URL |
 |-------|------------|
-| background | https://files.catbox.moe/w23wm1.png |
+| background | https://files.catbox.moe/3yrur9.png |
 | photo | https://files.catbox.moe/tjg3k7.png |
 | twitter glyph | https://files.catbox.moe/3cz16d.png |
 | facebook glyph | https://files.catbox.moe/anof72.png |
